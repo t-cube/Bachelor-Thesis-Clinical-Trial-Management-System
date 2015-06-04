@@ -95,13 +95,13 @@ public class Main
 	private static int dbPort = 5432;
 	
 	// Name of the database containing the system tables
-	private static String dbName = "ikfe_cro_ClinSys_Application";
+	private static String dbName = "DBName";
 	
 	// Name of the user to connect to the database
-	private static String dbUser = "ikfe_cro_admin";
+	private static String dbUser = "DBUser";
 	
 	// Password of the user, who connects to the database
-	private static String dbPassword = "cro2013!";
+	private static String dbPassword = "DBPW!";
 	
 	// SQL-Server type
 	private static DBMS dbms = DBMS.POSTGRESQL;
