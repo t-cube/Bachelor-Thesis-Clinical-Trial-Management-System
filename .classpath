@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/postgresql-9.2-1002.jdbc4.jar"/>
+	<classpathentry kind="lib" path="src/fop.jar"/>
+	<classpathentry kind="lib" path="src/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="src/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="src/avalon-framework-4.2.0.jar"/>
+	<classpathentry kind="lib" path="src/batik-all-1.7.jar"/>
+	<classpathentry kind="lib" path="src/serializer-2.7.0.jar"/>
+	<classpathentry kind="lib" path="src/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="src/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="src/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="src/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="src/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="src/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="src/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="src/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="src/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
